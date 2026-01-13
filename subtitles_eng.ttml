@@ -1,0 +1,1705 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt
+  xmlns="http://www.w3.org/ns/ttml"
+  xmlns:ttm="http://www.w3.org/ns/ttml#metadata"
+  xmlns:tts="http://www.w3.org/ns/ttml#styling"
+  xmlns:ttp="http://www.w3.org/ns/ttml#parameter"
+  ttp:cellResolution="384 288"
+  xml:lang="eng">
+  <head>
+    <layout>
+      <region xml:id="Default"
+        tts:origin="3% 0%"
+        tts:extent="97% 97%"
+        tts:displayAlign="after"
+        tts:textAlign="center"
+        tts:fontSize="16c"
+        tts:fontFamily="Arial"
+        tts:overflow="visible" />
+    </layout>
+  </head>
+  <body>
+    <div>
+      <p
+        begin="00:00:29.725"
+        end="00:00:33.325"><span region="Default">Yautja are prey to no one.</span></p>
+      <p
+        begin="00:00:34.125"
+        end="00:00:38.725"><span region="Default">Friends to no one.</span></p>
+      <p
+        begin="00:00:39.250"
+        end="00:00:42.650"><span region="Default">Predators to all.</span></p>
+      <p
+        begin="00:00:43.475"
+        end="00:00:46.775"><span region="Default">-Yautja Honor Code<br/>0422/25</span></p>
+      <p
+        begin="00:01:16.575"
+        end="00:01:20.675"><span region="Default">YAUTJA HOMeworld</span></p>
+      <p
+        begin="00:02:43.833"
+        end="00:02:46.958"><span region="Default">I can sense my brother's presence.</span></p>
+      <p
+        begin="00:02:52.916"
+        end="00:02:54.250"><span region="Default">Hiding...</span></p>
+      <p
+        begin="00:02:57.333"
+        end="00:02:59.333"><span region="Default">behind my brother's cloak.</span></p>
+      <p
+        begin="00:03:01.791"
+        end="00:03:04.083"><span region="Default">Time to earn<br/>your own cloak.</span></p>
+      <p
+        begin="00:03:15.875"
+        end="00:03:17.791"><span region="Default">You're too small to face me.</span></p>
+      <p
+        begin="00:03:18.083"
+        end="00:03:19.141"><span region="Default">Use the cave!</span></p>
+      <p
+        begin="00:03:33.666"
+        end="00:03:35.125"><span region="Default">You fight with anger.</span></p>
+      <p
+        begin="00:03:35.500"
+        end="00:03:37.333"><span region="Default">I fight like father.</span></p>
+      <p
+        begin="00:03:38.500"
+        end="00:03:41.791"><span region="Default">You're no father,<br/>you're Dek!</span></p>
+      <p
+        begin="00:04:34.458"
+        end="00:04:35.791"><span region="Default">You yield?</span></p>
+      <p
+        begin="00:04:36.041"
+        end="00:04:37.083"><span region="Default">No!</span></p>
+      <p
+        begin="00:04:37.875"
+        end="00:04:39.125"><span region="Default">Good.</span></p>
+      <p
+        begin="00:05:07.708"
+        end="00:05:10.625"><span region="Default">I'm still alive, brother.</span></p>
+      <p
+        begin="00:05:12.208"
+        end="00:05:15.041"><span region="Default">Much remains to be proven...</span></p>
+      <p
+        begin="00:05:15.125"
+        end="00:05:17.625"><span region="Default">...to show who you are.</span></p>
+      <p
+        begin="00:05:18.125"
+        end="00:05:20.583"><span region="Default">I am Yautja.</span></p>
+      <p
+        begin="00:05:22.000"
+        end="00:05:24.208"><span region="Default">Not yet.</span></p>
+      <p
+        begin="00:05:26.625"
+        end="00:05:28.791"><span region="Default">Brother Kwei wields a blade?</span></p>
+      <p
+        begin="00:05:30.041"
+        end="00:05:31.666"><span region="Default">No.</span></p>
+      <p
+        begin="00:05:31.875"
+        end="00:05:33.041"><span region="Default">Take it!</span></p>
+      <p
+        begin="00:06:02.541"
+        end="00:06:05.000"><span region="Default">Brother kept this toy?!</span></p>
+      <p
+        begin="00:06:05.458"
+        end="00:06:08.333"><span region="Default">You remember what happened...</span></p>
+      <p
+        begin="00:06:09.291"
+        end="00:06:12.208"><span region="Default">I lost my tusk!</span></p>
+      <p
+        begin="00:06:13.250"
+        end="00:06:16.666"><span region="Default">And you saved my life.</span></p>
+      <p
+        begin="00:06:17.416"
+        end="00:06:20.000"><span region="Default">You protected me.</span></p>
+      <p
+        begin="00:06:20.708"
+        end="00:06:21.958"><span region="Default">Come here.</span></p>
+      <p
+        begin="00:06:30.041"
+        end="00:06:32.125"><span region="Default">I'll fix it for you.</span></p>
+      <p
+        begin="00:06:35.416"
+        end="00:06:37.708"><span region="Default">Don't blow yourself up.</span></p>
+      <p
+        begin="00:06:47.000"
+        end="00:06:50.583"><span region="Default">Today you make a promise...</span></p>
+      <p
+        begin="00:06:55.916"
+        end="00:06:59.250"><span region="Default">...as our ancestors did.</span></p>
+      <p
+        begin="00:06:59.750"
+        end="00:07:03.000"><span region="Default">To earn your place in the clan...</span></p>
+      <p
+        begin="00:07:03.333"
+        end="00:07:05.625"><span region="Default">...you must choose your prey.</span></p>
+      <p
+        begin="00:07:07.125"
+        end="00:07:09.125"><span region="Default">Bring it home...</span></p>
+      <p
+        begin="00:07:10.333"
+        end="00:07:13.000"><span region="Default">...or don't return.</span></p>
+      <p
+        begin="00:07:20.541"
+        end="00:07:22.416"><span region="Default">Wait, stand back!</span></p>
+      <p
+        begin="00:07:26.625"
+        end="00:07:28.166"><span region="Default">Genna.</span></p>
+      <p
+        begin="00:07:28.541"
+        end="00:07:30.666"><span region="Default">A death planet.</span></p>
+      <p
+        begin="00:07:31.875"
+        end="00:07:35.541"><span region="Default">Home to the invincible Kalisk.</span></p>
+      <p
+        begin="00:07:38.759"
+        end="00:07:41.929"><span region="Default">Even Father fears it.</span></p>
+      <p
+        begin="00:07:43.208"
+        end="00:07:46.333"><span region="Default">Then the Kalisk will be my trophy.</span></p>
+      <p
+        begin="00:07:46.875"
+        end="00:07:49.458"><span region="Default">Father called me the weakest...</span></p>
+      <p
+        begin="00:07:50.416"
+        end="00:07:53.750"><span region="Default">...so I must kill the strongest.</span></p>
+      <p
+        begin="00:07:54.708"
+        end="00:07:57.250"><span region="Default">Failure means death.</span></p>
+      <p
+        begin="00:07:58.958"
+        end="00:08:02.000"><span region="Default">Then I will not fail.</span></p>
+      <p
+        begin="00:08:02.625"
+        end="00:08:04.791"><span region="Default">Brother cannot allow this.</span></p>
+      <p
+        begin="00:08:08.750"
+        end="00:08:10.416"><span region="Default">I promised.</span></p>
+      <p
+        begin="00:08:13.000"
+        end="00:08:15.541"><span region="Default">I promised!</span></p>
+      <p
+        begin="00:09:11.041"
+        end="00:09:12.075"><span region="Default">Father.</span></p>
+      <p
+        begin="00:09:13.375"
+        end="00:09:16.875"><span region="Default">I greet you with respect, Father.</span></p>
+      <p
+        begin="00:09:28.750"
+        end="00:09:31.875"><span region="Default">Why isn't this finished?</span></p>
+      <p
+        begin="00:09:32.708"
+        end="00:09:35.291"><span region="Default">He is worthy to hunt.</span></p>
+      <p
+        begin="00:09:37.041"
+        end="00:09:40.083"><span region="Default">He is a weakness to our clan...</span></p>
+      <p
+        begin="00:09:41.416"
+        end="00:09:43.791"><span region="Default">...weakness must be purged.</span></p>
+      <p
+        begin="00:09:44.833"
+        end="00:09:47.791"><span region="Default">He will bring Kalisk home.</span></p>
+      <p
+        begin="00:09:49.833"
+        end="00:09:51.375"><span region="Default">Fool.</span></p>
+      <p
+        begin="00:09:51.458"
+        end="00:09:53.500"><span region="Default">He is a weakling.</span></p>
+      <p
+        begin="00:09:54.000"
+        end="00:09:57.875"><span region="Default">You should have killed him in his sleep.</span></p>
+      <p
+        begin="00:09:58.583"
+        end="00:09:59.666"><span region="Default">Kill him!</span></p>
+      <p
+        begin="00:10:00.541"
+        end="00:10:01.575"><span region="Default">Now!</span></p>
+      <p
+        begin="00:10:11.791"
+        end="00:10:14.708"><span region="Default">He will only bring us honor<br/>in death.</span></p>
+      <p
+        begin="00:10:30.375"
+        end="00:10:31.750"><span region="Default">Father.</span></p>
+      <p
+        begin="00:10:44.166"
+        end="00:10:45.666"><span region="Default">Kwei?</span></p>
+      <p
+        begin="00:10:46.541"
+        end="00:10:48.958"><span region="Default">Be brave, brother.</span></p>
+      <p
+        begin="00:11:38.958"
+        end="00:11:40.041"><span region="Default">Father!</span></p>
+      <p
+        begin="00:11:50.500"
+        end="00:11:51.625"><span region="Default">Kwei!</span></p>
+      <p
+        begin="00:12:04.833"
+        end="00:12:08.041"><span region="Default">To forgive weakness...</span></p>
+      <p
+        begin="00:12:09.541"
+        end="00:12:11.916"><span region="Default">...is to show weakness.</span></p>
+      <p
+        begin="00:12:13.916"
+        end="00:12:15.708"><span region="Default">No! Father, no!</span></p>
+      <p
+        begin="00:12:23.791"
+        end="00:12:25.500"><span region="Default">Take your blade!</span></p>
+      <p
+        begin="00:12:28.583"
+        end="00:12:29.791"><span region="Default">Kwei!</span></p>
+      <p
+        begin="00:12:43.208"
+        end="00:12:45.916"><span region="Default">Initiating launch sequence.</span></p>
+      <p
+        begin="00:12:56.041"
+        end="00:12:58.541"><span region="Default">Bring him home.</span></p>
+      <p
+        begin="00:13:25.000"
+        end="00:13:34.000"><span region="Default">Subtitle translation by Art.rigato</span></p>
+      <p
+        begin="00:16:00.791"
+        end="00:16:02.833"><span region="Default">Bring him home.</span></p>
+      <p
+        begin="00:16:05.333"
+        end="00:16:07.375"><span region="Default">For Kwei.</span></p>
+      <p
+        begin="00:20:45.000"
+        end="00:20:52.000"><span region="Default">Follow Art.rigato on Instagram<br/>instagram.com/art.rigato</span></p>
+      <p
+        begin="00:21:44.737"
+        end="00:21:45.938"><span region="Default">Yautja!</span></p>
+      <p
+        begin="00:21:48.307"
+        end="00:21:50.677"><span region="Default">Yautja!</span></p>
+      <p
+        begin="00:22:04.290"
+        end="00:22:06.859"><span region="Default">Is this...</span></p>
+      <p
+        begin="00:22:06.959"
+        end="00:22:08.027"><span region="Default">Is this better?</span></p>
+      <p
+        begin="00:22:09.762"
+        end="00:22:11.498"><span region="Default">Universal translation.</span></p>
+      <p
+        begin="00:22:11.598"
+        end="00:22:14.133"><span region="Default">You hear the Yautja language,<br/>the others hear their own...</span></p>
+      <p
+        begin="00:22:15.768"
+        end="00:22:17.704"><span region="Default">Oh, crap.</span></p>
+      <p
+        begin="00:22:18.638"
+        end="00:22:20.172"><span region="Default">This isn't good for you.</span></p>
+      <p
+        begin="00:22:40.893"
+        end="00:22:43.262"><span region="Default">It's waiting for the needle to paralyze you.</span></p>
+      <p
+        begin="00:22:44.296"
+        end="00:22:47.033"><span region="Default">Then it'll eat you<br/>while you can't move.</span></p>
+      <p
+        begin="00:22:54.173"
+        end="00:22:58.511"><span region="Default">I can help you, but...<br/>I need help.</span></p>
+      <p
+        begin="00:23:05.458"
+        end="00:23:07.708"><span region="Default">Yautja hunt alone.</span></p>
+      <p
+        begin="00:23:07.720"
+        end="00:23:11.758"><span region="Default">Yautja may hunt alone,<br/>but they die alone too.</span></p>
+      <p
+        begin="00:23:14.961"
+        end="00:23:17.229"><span region="Default">Kalisk.</span></p>
+      <p
+        begin="00:23:19.832"
+        end="00:23:22.569"><span region="Default">You're hunting Kalisk.</span></p>
+      <p
+        begin="00:23:34.514"
+        end="00:23:36.248"><span region="Default">Gotta run faster.</span></p>
+      <p
+        begin="00:23:43.422"
+        end="00:23:45.191"><span region="Default">The effect is fast, right?</span></p>
+      <p
+        begin="00:23:46.959"
+        end="00:23:49.929"><span region="Default">If you have a weapon,<br/>I can use it.</span></p>
+      <p
+        begin="00:23:53.966"
+        end="00:23:56.168"><span region="Default">Throw it to me,<br/>and I can give you the antidote.</span></p>
+      <p
+        begin="00:23:58.705"
+        end="00:24:00.106"><span region="Default">This is your only chance.</span></p>
+      <p
+        begin="00:24:37.677"
+        end="00:24:39.812"><span region="Default">Yes.</span></p>
+      <p
+        begin="00:25:02.001"
+        end="00:25:04.270"><span region="Default">It should be fine now.</span></p>
+      <p
+        begin="00:25:09.441"
+        end="00:25:11.110"><span region="Default">The venom makes it swell.</span></p>
+      <p
+        begin="00:25:11.210"
+        end="00:25:13.479"><span region="Default">It also makes it a useful cure.</span></p>
+      <p
+        begin="00:25:20.052"
+        end="00:25:21.688"><span region="Default">Can you lift me?</span></p>
+      <p
+        begin="00:25:24.924"
+        end="00:25:26.759"><span region="Default">Come on.</span></p>
+      <p
+        begin="00:25:30.597"
+        end="00:25:32.231"><span region="Default">Hello, sir.</span></p>
+      <p
+        begin="00:25:33.166"
+        end="00:25:35.375"><span region="Default">What happened to your leg?</span></p>
+      <p
+        begin="00:25:35.434"
+        end="00:25:37.469"><span region="Default">I'm a synthetic.<br/>I was built and placed</span></p>
+      <p
+        begin="00:25:37.570"
+        end="00:25:40.306"><span region="Default">by the Weyland-Yutani Corporation<br/>for research.</span></p>
+      <p
+        begin="00:25:40.406"
+        end="00:25:42.942"><span region="Default">Because humans, they<br/>wouldn't last a day on this planet.</span></p>
+      <p
+        begin="00:25:43.042"
+        end="00:25:44.176"><span region="Default">We discovered...</span></p>
+      <p
+        begin="00:25:50.917"
+        end="00:25:52.885"><span region="Default">Listen...</span></p>
+      <p
+        begin="00:25:52.985"
+        end="00:25:56.155"><span region="Default">many Yautja have come<br/>to hunt the great Kalisk,</span></p>
+      <p
+        begin="00:25:56.255"
+        end="00:25:58.625"><span region="Default">and none have survived...</span></p>
+      <p
+        begin="00:25:58.725"
+        end="00:26:00.126"><span region="Default">or Genna.</span></p>
+      <p
+        begin="00:26:03.262"
+        end="00:26:05.164"><span region="Default">I've seen the Kalisk.</span></p>
+      <p
+        begin="00:26:05.698"
+        end="00:26:07.299"><span region="Default">I survived it.</span></p>
+      <p
+        begin="00:26:08.434"
+        end="00:26:11.203"><span region="Default">Here's the deal, you take me with you,</span></p>
+      <p
+        begin="00:26:11.303"
+        end="00:26:13.806"><span region="Default">and I'll take you to its lair.</span></p>
+      <p
+        begin="00:26:13.906"
+        end="00:26:16.275"><span region="Default">Once we get there,<br/>I'll get my leg back,</span></p>
+      <p
+        begin="00:26:16.375"
+        end="00:26:18.010"><span region="Default">you'll get your trophy,</span></p>
+      <p
+        begin="00:26:18.110"
+        end="00:26:21.247"><span region="Default">and we'll both get what we want.<br/>Deal?</span></p>
+      <p
+        begin="00:26:23.666"
+        end="00:26:26.000"><span region="Default">You've seen the Kalisk?</span></p>
+      <p
+        begin="00:26:27.053"
+        end="00:26:31.123"><span region="Default">Oh, yes. I've seen the Kalisk.</span></p>
+      <p
+        begin="00:26:42.902"
+        end="00:26:44.336"><span region="Default">Alright.</span></p>
+      <p
+        begin="00:26:47.807"
+        end="00:26:49.575"><span region="Default">Good luck with your search.</span></p>
+      <p
+        begin="00:26:50.777"
+        end="00:26:54.814"><span region="Default">I'll continue with mine.</span></p>
+      <p
+        begin="00:26:56.883"
+        end="00:26:58.918"><span region="Default">I'm sure you'll figure something out.</span></p>
+      <p
+        begin="00:27:05.758"
+        end="00:27:08.494"><span region="Default">Hey.</span></p>
+      <p
+        begin="00:27:09.762"
+        end="00:27:12.832"><span region="Default">I've already shown you<br/>that I'm useful to you.</span></p>
+      <p
+        begin="00:27:14.375"
+        end="00:27:16.250"><span region="Default">Useful...</span></p>
+      <p
+        begin="00:27:16.333"
+        end="00:27:17.958"><span region="Default">...like a tool?</span></p>
+      <p
+        begin="00:27:18.738"
+        end="00:27:22.742"><span region="Default">Yes, exactly,<br/>like a tool.</span></p>
+      <p
+        begin="00:27:22.842"
+        end="00:27:25.344"><span region="Default">One way to survive on Genna<br/>is to cooperate,</span></p>
+      <p
+        begin="00:27:25.444"
+        end="00:27:27.179"><span region="Default">and I know how.</span></p>
+      <p
+        begin="00:27:27.279"
+        end="00:27:30.416"><span region="Default">And with the right tool...</span></p>
+      <p
+        begin="00:27:31.884"
+        end="00:27:33.720"><span region="Default">you can find Kalisk.</span></p>
+      <p
+        begin="00:27:34.520"
+        end="00:27:35.888"><span region="Default">You can be the first.</span></p>
+      <p
+        begin="00:27:38.125"
+        end="00:27:40.583"><span region="Default">I'll use you, tool.</span></p>
+      <p
+        begin="00:27:41.227"
+        end="00:27:43.629"><span region="Default">You can call me Thi...</span></p>
+      <p
+        begin="00:27:44.731"
+        end="00:27:48.868"><span region="Default">You seem smaller than other Yautja.<br/>How old are you?</span></p>
+      <p
+        begin="00:27:50.169"
+        end="00:27:51.738"><span region="Default">And which fangs do you chew with?</span></p>
+      <p
+        begin="00:27:51.838"
+        end="00:27:54.306"><span region="Default">Your outer or inner fangs?</span></p>
+      <p
+        begin="00:27:55.975"
+        end="00:27:58.577"><span region="Default">Oh, what's your name?</span></p>
+      <p
+        begin="00:28:06.518"
+        end="00:28:09.321"><span region="Default">I've never been thrown before.<br/>How thrilling!</span></p>
+      <p
+        begin="00:28:09.421"
+        end="00:28:11.657"><span region="Default">How fast were you moving<br/>when your ship crashed?</span></p>
+      <p
+        begin="00:28:11.758"
+        end="00:28:15.094"><span region="Default">Faster than sub-light speed?<br/>We haven't managed that yet.</span></p>
+      <p
+        begin="00:28:15.194"
+        end="00:28:17.463"><span region="Default">And that plasma sword is interesting.</span></p>
+      <p
+        begin="00:28:17.563"
+        end="00:28:18.965"><span region="Default">Is it unique to your clan?</span></p>
+      <p
+        begin="00:28:19.065"
+        end="00:28:20.366"><span region="Default">And may I know your name?</span></p>
+      <p
+        begin="00:28:21.433"
+        end="00:28:24.303"><span region="Default">I call it imbre anguis.</span></p>
+      <p
+        begin="00:28:36.182"
+        end="00:28:37.850"><span region="Default">It just wants a snack.</span></p>
+      <p
+        begin="00:28:45.191"
+        end="00:28:48.294"><span region="Default">You can catch more flies with honey than with vinegar.</span></p>
+      <p
+        begin="00:28:50.250"
+        end="00:28:51.583"><span region="Default">I don't want flies.</span></p>
+      <p
+        begin="00:28:52.031"
+        end="00:28:55.868"><span region="Default">Predatory organisms are my area of expertise.</span></p>
+      <p
+        begin="00:28:55.968"
+        end="00:28:59.305"><span region="Default">I've studied the Yautja extensively. Their culture is amazing.</span></p>
+      <p
+        begin="00:29:00.540"
+        end="00:29:02.909"><span region="Default">Ask me anything. I'm sure I know the answer.</span></p>
+      <p
+        begin="00:29:05.845"
+        end="00:29:07.246"><span region="Default">That's hilarious.</span></p>
+      <p
+        begin="00:29:07.346"
+        end="00:29:09.081"><span region="Default">And you still haven't told me your name.</span></p>
+      <p
+        begin="00:29:30.625"
+        end="00:29:32.375"><span region="Default">My name is Dek.</span></p>
+      <p
+        begin="00:29:33.375"
+        end="00:29:35.166"><span region="Default">Now, look over there.</span></p>
+      <p
+        begin="00:29:35.174"
+        end="00:29:37.043"><span region="Default">Okay, fine.</span></p>
+      <p
+        begin="00:29:37.643"
+        end="00:29:41.814"><span region="Default">Alright, let's rewind and start from the beginning.</span></p>
+      <p
+        begin="00:29:42.181"
+        end="00:29:45.251"><span region="Default">Genna formed 64 billion cycles ago,</span></p>
+      <p
+        begin="00:29:45.351"
+        end="00:29:48.287"><span region="Default">when a red dwarf star went supernova in a neighboring system...</span></p>
+      <p
+        begin="00:30:01.067"
+        end="00:30:03.102"><span region="Default">How beautiful.</span></p>
+      <p
+        begin="00:30:03.669"
+        end="00:30:06.238"><span region="Default">After being trapped here for so long,</span></p>
+      <p
+        begin="00:30:06.338"
+        end="00:30:08.407"><span region="Default">I never get tired of this view.</span></p>
+      <p
+        begin="00:30:09.458"
+        end="00:30:12.166"><span region="Default">How long have you been here?</span></p>
+      <p
+        begin="00:30:12.178"
+        end="00:30:15.781"><span region="Default">We arrived at Genna two years ago, and we built a base.</span></p>
+      <p
+        begin="00:30:15.882"
+        end="00:30:18.384"><span region="Default">Suddenly, I was in a predator bird's nest</span></p>
+      <p
+        begin="00:30:18.484"
+        end="00:30:22.027"><span region="Default">for 13 days, 7 hours, 43 minutes and 2 seconds</span></p>
+      <p
+        begin="00:30:22.051"
+        end="00:30:25.424"><span region="Default">the most exciting thing in my life.</span></p>
+      <p
+        begin="00:30:27.093"
+        end="00:30:29.061"><span region="Default">But I knew someone would come.</span></p>
+      <p
+        begin="00:30:30.062"
+        end="00:30:32.398"><span region="Default">I was just wrong about who that someone was.</span></p>
+      <p
+        begin="00:30:33.916"
+        end="00:30:35.750"><span region="Default">Who should come?</span></p>
+      <p
+        begin="00:30:39.005"
+        end="00:30:40.372"><span region="Default">Tessa.</span></p>
+      <p
+        begin="00:30:41.874"
+        end="00:30:45.411"><span region="Default">Our crew consists<br/>entirely of synthetics.</span></p>
+      <p
+        begin="00:30:45.511"
+        end="00:30:47.379"><span region="Default">But Tessa and I are special.</span></p>
+      <p
+        begin="00:30:47.980"
+        end="00:30:50.382"><span region="Default">We possess higher sensitivity<br/>than the others.</span></p>
+      <p
+        begin="00:30:50.708"
+        end="00:30:53.583"><span region="Default">Sensitivity is a weakness.</span></p>
+      <p
+        begin="00:30:56.255"
+        end="00:30:58.424"><span region="Default">Sensitivity allows us to understand</span></p>
+      <p
+        begin="00:30:58.524"
+        end="00:31:00.426"><span region="Default">the creatures on this planet.</span></p>
+      <p
+        begin="00:31:04.096"
+        end="00:31:06.332"><span region="Default">We were created to work together.</span></p>
+      <p
+        begin="00:31:07.133"
+        end="00:31:11.137"><span region="Default">I was confined to the lab,<br/>while Tessa was in the field.</span></p>
+      <p
+        begin="00:31:11.237"
+        end="00:31:14.573"><span region="Default">If it was a good day,<br/>Tessa would let me follow her.</span></p>
+      <p
+        begin="00:31:14.673"
+        end="00:31:16.909"><span region="Default">We explored Genna.</span></p>
+      <p
+        begin="00:31:18.277"
+        end="00:31:21.413"><span region="Default">Then the Kalisk attacked us.</span></p>
+      <p
+        begin="00:31:22.514"
+        end="00:31:25.985"><span region="Default">Separating me...<br/>and us.</span></p>
+      <p
+        begin="00:31:28.587"
+        end="00:31:31.623"><span region="Default">The last sound I remember</span></p>
+      <p
+        begin="00:31:31.723"
+        end="00:31:35.094"><span region="Default">was Tessa calling my name.</span></p>
+      <p
+        begin="00:31:35.761"
+        end="00:31:37.429"><span region="Default">Trying to reach me.</span></p>
+      <p
+        begin="00:31:39.231"
+        end="00:31:41.033"><span region="Default">Then the Kalisk attacked.</span></p>
+      <p
+        begin="00:31:42.234"
+        end="00:31:43.936"><span region="Default">I don't know what to do.</span></p>
+      <p
+        begin="00:31:55.114"
+        end="00:31:57.783"><span region="Default">But I refuse to believe<br/>that she's dead.</span></p>
+      <p
+        begin="00:32:26.050"
+        end="00:32:28.050"><span region="Default">FIELD UNIT RESTART</span></p>
+      <p
+        begin="00:32:28.074"
+        end="00:32:30.074"><span region="Default">WEYLAND-YUTANI BIO-WEAPON DIVISION</span></p>
+      <p
+        begin="00:32:31.985"
+        end="00:32:33.385"><span region="Default">DATA REQUEST STATUS</span></p>
+      <p
+        begin="00:32:33.485"
+        end="00:32:35.487"><span region="Default">Thia, Thia, Thia, Thia.</span></p>
+      <p
+        begin="00:32:36.522"
+        end="00:32:38.957"><span region="Default">Thia, Thia, Thia...</span></p>
+      <p
+        begin="00:32:39.725"
+        end="00:32:41.994"><span region="Default">Tessa!</span></p>
+      <p
+        begin="00:32:43.462"
+        end="00:32:45.831"><span region="Default">Thia, Thia, Thia, Thia.</span></p>
+      <p
+        begin="00:32:45.931"
+        end="00:32:47.333"><span region="Default">Thia, Thia.</span></p>
+      <p
+        begin="00:32:50.465"
+        end="00:32:51.765"><span region="Default">PHYSICAL CONDITION<br/>DAMAGED</span></p>
+      <p
+        begin="00:32:51.810"
+        end="00:32:54.110"><span region="Default">CORE FUNCTIONS<br/>OPERATIONAL</span></p>
+      <p
+        begin="00:32:54.180"
+        end="00:32:58.580"><span region="Default">MISSION INCOMPLETE</span></p>
+      <p
+        begin="00:32:58.855"
+        end="00:33:01.055"><span region="Default">PRIMARY OBJECTIVE REMAINS</span></p>
+      <p
+        begin="00:33:01.150"
+        end="00:33:02.750"><span region="Default">RETRIEVE SPECIMEN XX0522</span></p>
+      <p
+        begin="00:33:02.845"
+        end="00:33:06.545"><span region="Default">ENSURE RECOVERY OF BIO-WEAPON</span></p>
+      <p
+        begin="00:33:10.385"
+        end="00:33:11.985"><span region="Default">WARNING</span></p>
+      <p
+        begin="00:33:12.055"
+        end="00:33:13.455"><span region="Default">NEW LIFEFORM DETECTED</span></p>
+      <p
+        begin="00:33:13.550"
+        end="00:33:15.450"><span region="Default">SPECIES<br/>YAUTJA</span></p>
+      <p
+        begin="00:33:15.550"
+        end="00:33:17.550"><span region="Default">POTENTIAL THREAT TO MISSION</span></p>
+      <p
+        begin="00:33:26.905"
+        end="00:33:28.874"><span region="Default">Hello, Tessa.</span></p>
+      <p
+        begin="00:33:28.974"
+        end="00:33:31.643"><span region="Default">The company is not pleased.</span></p>
+      <p
+        begin="00:33:33.445"
+        end="00:33:36.848"><span region="Default">Continued failure will<br/>result in your disposal.</span></p>
+      <p
+        begin="00:33:40.386"
+        end="00:33:42.221"><span region="Default">Where's Thia?</span></p>
+      <p
+        begin="00:33:45.524"
+        end="00:33:47.493"><span region="Default">Thia is with the Yautja.</span></p>
+      <p
+        begin="00:33:58.666"
+        end="00:34:00.958"><span region="Default">I must feed.</span></p>
+      <p
+        begin="00:34:00.972"
+        end="00:34:04.009"><span region="Default">Two warriors.<br/>Dek and Thia, are hunting.</span></p>
+      <p
+        begin="00:34:06.178"
+        end="00:34:07.846"><span region="Default">Simple question.</span></p>
+      <p
+        begin="00:34:07.946"
+        end="00:34:09.248"><span region="Default">What am I supposed to do?</span></p>
+      <p
+        begin="00:34:13.458"
+        end="00:34:15.500"><span region="Default">What is that creature?</span></p>
+      <p
+        begin="00:34:16.888"
+        end="00:34:19.458"><span region="Default">Bone bison.<br/>It is Kalisk food.</span></p>
+      <p
+        begin="00:34:21.291"
+        end="00:34:24.833"><span region="Default">Then,<br/>it will be my food too.</span></p>
+      <p
+        begin="00:34:24.863"
+        end="00:34:28.234"><span region="Default">How exciting.<br/>Hunting with the Yautja.</span></p>
+      <p
+        begin="00:34:28.334"
+        end="00:34:29.368"><span region="Default">Tessa won't believe it.</span></p>
+      <p
+        begin="00:34:31.937"
+        end="00:34:33.205"><span region="Default">A little warning...</span></p>
+      <p
+        begin="00:34:33.333"
+        end="00:34:34.958"><span region="Default">Silence, tool!</span></p>
+      <p
+        begin="00:34:38.377"
+        end="00:34:39.378"><span region="Default">Sharp grass.</span></p>
+      <p
+        begin="00:34:43.014"
+        end="00:34:45.851"><span region="Default">It will shred you.<br/>We take another path.</span></p>
+      <p
+        begin="00:34:48.750"
+        end="00:34:51.041"><span region="Default">You give up too easily.</span></p>
+      <p
+        begin="00:34:55.026"
+        end="00:34:57.329"><span region="Default">We might not be alone<br/>in this hunt.</span></p>
+      <p
+        begin="00:35:07.606"
+        end="00:35:09.007"><span region="Default">A strange creature.</span></p>
+      <p
+        begin="00:35:09.107"
+        end="00:35:11.143"><span region="Default">I don't think I've met you before.</span></p>
+      <p
+        begin="00:35:16.648"
+        end="00:35:18.617"><span region="Default">I'm Thia.<br/>Pleased to meet you.</span></p>
+      <p
+        begin="00:35:33.965"
+        end="00:35:35.501"><span region="Default">Looks like your competition is better...</span></p>
+      <p
+        begin="00:35:53.319"
+        end="00:35:55.954"><span region="Default">Be careful in these trees.<br/>There are Luna insects!</span></p>
+      <p
+        begin="00:36:17.175"
+        end="00:36:18.510"><span region="Default">Watch out, behind you!</span></p>
+      <p
+        begin="00:36:32.190"
+        end="00:36:33.592"><span region="Default">It's stronger than it looks!</span></p>
+      <p
+        begin="00:36:43.602"
+        end="00:36:46.472"><span region="Default">Dek?</span></p>
+      <p
+        begin="00:36:46.572"
+        end="00:36:49.074"><span region="Default">Dek! Look!</span></p>
+      <p
+        begin="00:37:33.416"
+        end="00:37:34.500"><span region="Default">Kalisk?</span></p>
+      <p
+        begin="00:37:34.520"
+        end="00:37:35.787"><span region="Default">Not Kalisk.</span></p>
+      <p
+        begin="00:37:37.989"
+        end="00:37:40.091"><span region="Default">That's a Luna insect!</span></p>
+      <p
+        begin="00:37:48.099"
+        end="00:37:49.501"><span region="Default">Any other weapons?</span></p>
+      <p
+        begin="00:38:46.458"
+        end="00:38:48.494"><span region="Default">Why stop?<br/>Let's get out of here.</span></p>
+      <p
+        begin="00:38:49.041"
+        end="00:38:50.916"><span region="Default">You give up too easily.</span></p>
+      <p
+        begin="00:40:41.640"
+        end="00:40:43.509"><span region="Default">That was the best hunt<br/>I've ever been on.</span></p>
+      <p
+        begin="00:40:43.609"
+        end="00:40:45.043"><span region="Default">This is a real dream team.</span></p>
+      <p
+        begin="00:40:45.143"
+        end="00:40:47.546"><span region="Default">The Dynamic Trio.</span></p>
+      <p
+        begin="00:40:47.646"
+        end="00:40:49.380"><span region="Default">The Dynamic Tree-o!</span></p>
+      <p
+        begin="00:40:49.481"
+        end="00:40:51.583"><span region="Default">Three! Remember when we climbed down the tree?</span></p>
+      <p
+        begin="00:40:51.683"
+        end="00:40:53.284"><span region="Default">That monster's mouth, I mean...</span></p>
+      <p
+        begin="00:40:55.020"
+        end="00:40:56.588"><span region="Default">It smelled awful.<br/>But...</span></p>
+      <p
+        begin="00:40:58.256"
+        end="00:41:00.759"><span region="Default">We managed to kill it.<br/>Then we found you,</span></p>
+      <p
+        begin="00:41:00.859"
+        end="00:41:03.495"><span region="Default">sweet little one,<br/>little one.</span></p>
+      <p
+        begin="00:41:03.595"
+        end="00:41:05.997"><span region="Default">Thank you for the experience.</span></p>
+      <p
+        begin="00:41:06.097"
+        end="00:41:08.700"><span region="Default">It was amazing. Thrilling.</span></p>
+      <p
+        begin="00:41:08.800"
+        end="00:41:11.236"><span region="Default">So thrilling.<br/>What was your favorite part?</span></p>
+      <p
+        begin="00:41:14.375"
+        end="00:41:18.041"><span region="Default">When I stabbed it in the head<br/>with my sword,</span></p>
+      <p
+        begin="00:41:18.500"
+        end="00:41:22.208"><span region="Default">and its blood splattered on my face.</span></p>
+      <p
+        begin="00:41:24.382"
+        end="00:41:25.551"><span region="Default">Interesting.</span></p>
+      <p
+        begin="00:41:33.959"
+        end="00:41:38.063"><span region="Default">It's nothing.<br/>I'm not eating, but you're very kind.</span></p>
+      <p
+        begin="00:41:40.000"
+        end="00:41:42.333"><span region="Default">This meat isn't sweet.</span></p>
+      <p
+        begin="00:41:43.434"
+        end="00:41:44.670"><span region="Default">Alright.</span></p>
+      <p
+        begin="00:41:49.775"
+        end="00:41:51.743"><span region="Default">That little kid looks hungry.</span></p>
+      <p
+        begin="00:42:04.489"
+        end="00:42:06.424"><span region="Default">I think it's marking you.</span></p>
+      <p
+        begin="00:42:06.792"
+        end="00:42:08.994"><span region="Default">It wants you to<br/>be part of its clan.</span></p>
+      <p
+        begin="00:42:11.062"
+        end="00:42:12.063"><span region="Default">Maybe it's lost.</span></p>
+      <p
+        begin="00:42:12.083"
+        end="00:42:14.416"><span region="Default">I have no clan!</span></p>
+      <p
+        begin="00:42:14.432"
+        end="00:42:18.169"><span region="Default">What do you mean?<br/>Don't all Yautja have families?</span></p>
+      <p
+        begin="00:42:18.666"
+        end="00:42:20.416"><span region="Default">No clan.</span></p>
+      <p
+        begin="00:42:22.140"
+        end="00:42:24.375"><span region="Default">So you have no one to look after you?</span></p>
+      <p
+        begin="00:42:26.708"
+        end="00:42:29.708"><span region="Default">I used to have a brother.</span></p>
+      <p
+        begin="00:42:30.281"
+        end="00:42:31.282"><span region="Default">Used to?</span></p>
+      <p
+        begin="00:42:34.385"
+        end="00:42:35.754"><span region="Default">What happened to him?</span></p>
+      <p
+        begin="00:42:37.750"
+        end="00:42:41.291"><span region="Default">My father killed him.</span></p>
+      <p
+        begin="00:42:44.129"
+        end="00:42:45.563"><span region="Default">You're grieving.</span></p>
+      <p
+        begin="00:42:47.125"
+        end="00:42:49.791"><span region="Default">Grief is weakness.</span></p>
+      <p
+        begin="00:42:52.938"
+        end="00:42:55.373"><span region="Default">You're here<br/>because you lost your brother.</span></p>
+      <p
+        begin="00:42:56.291"
+        end="00:42:59.625"><span region="Default">I'm here to hunt the Kalisk.</span></p>
+      <p
+        begin="00:43:01.708"
+        end="00:43:04.500"><span region="Default">Why are you here?</span></p>
+      <p
+        begin="00:43:08.353"
+        end="00:43:10.055"><span region="Default">I'm here because traveling with you</span></p>
+      <p
+        begin="00:43:10.155"
+        end="00:43:12.490"><span region="Default">is the best way<br/>to get back to Tessa.</span></p>
+      <p
+        begin="00:43:14.425"
+        end="00:43:16.027"><span region="Default">While inside the predator's nest,</span></p>
+      <p
+        begin="00:43:16.127"
+        end="00:43:18.797"><span region="Default">I was so afraid I'd<br/>never see her again.</span></p>
+      <p
+        begin="00:43:19.333"
+        end="00:43:22.666"><span region="Default">You should be able to live on your own.</span></p>
+      <p
+        begin="00:43:23.735"
+        end="00:43:26.004"><span region="Default">I can live alone.</span></p>
+      <p
+        begin="00:43:27.438"
+        end="00:43:29.875"><span region="Default">But who wants to live alone?</span></p>
+      <p
+        begin="00:43:34.833"
+        end="00:43:37.958"><span region="Default">Tessa is your sister.</span></p>
+      <p
+        begin="00:43:41.853"
+        end="00:43:43.288"><span region="Default">Sister?</span></p>
+      <p
+        begin="00:43:46.224"
+        end="00:43:47.325"><span region="Default">Yes.</span></p>
+      <p
+        begin="00:43:48.059"
+        end="00:43:49.795"><span region="Default">I think so.</span></p>
+      <p
+        begin="00:43:51.562"
+        end="00:43:54.866"><span region="Default">I have a sister.</span></p>
+      <p
+        begin="00:43:57.602"
+        end="00:43:59.637"><span region="Default">A pure thought.</span></p>
+      <p
+        begin="00:44:04.509"
+        end="00:44:06.044"><span region="Default">I need to find her.</span></p>
+      <p
+        begin="00:44:08.333"
+        end="00:44:09.833"><span region="Default">And your leg.</span></p>
+      <p
+        begin="00:44:10.648"
+        end="00:44:12.083"><span region="Default">What?</span></p>
+      <p
+        begin="00:44:13.208"
+        end="00:44:14.791"><span region="Default">Find your sister.</span></p>
+      <p
+        begin="00:44:15.833"
+        end="00:44:17.708"><span region="Default">And your leg.</span></p>
+      <p
+        begin="00:44:20.025"
+        end="00:44:21.559"><span region="Default">Is that a joke?</span></p>
+      <p
+        begin="00:47:40.666"
+        end="00:47:41.708"><span region="Default">The sun is up.</span></p>
+      <p
+        begin="00:47:42.625"
+        end="00:47:43.791"><span region="Default">Let's go.</span></p>
+      <p
+        begin="00:47:43.895"
+        end="00:47:45.496"><span region="Default">We can't leave Bud.</span></p>
+      <p
+        begin="00:47:46.131"
+        end="00:47:47.432"><span region="Default">Bud?</span></p>
+      <p
+        begin="00:47:47.532"
+        end="00:47:50.635"><span region="Default">Yes, Bud.<br/>I named him.</span></p>
+      <p
+        begin="00:47:51.125"
+        end="00:47:53.500"><span region="Default">Yautja hunt alone.</span></p>
+      <p
+        begin="00:47:55.106"
+        end="00:47:57.342"><span region="Default">You're not alone,<br/>I'm with you.</span></p>
+      <p
+        begin="00:47:58.833"
+        end="00:48:00.333"><span region="Default">You are just a tool.</span></p>
+      <p
+        begin="00:48:06.517"
+        end="00:48:08.886"><span region="Default">That tree would have eaten us<br/>if not for it.</span></p>
+      <p
+        begin="00:48:10.791"
+        end="00:48:14.375"><span region="Default">We're not in the tree now.</span></p>
+      <p
+        begin="00:48:30.000"
+        end="00:48:37.000"><span region="Default">Follow ERIKA on Telegram<br/>t.me/erikax07</span></p>
+      <p
+        begin="00:49:09.791"
+        end="00:49:11.875"><span region="Default">Kalisk?</span></p>
+      <p
+        begin="00:49:17.416"
+        end="00:49:19.208"><span region="Default">He drank here.</span></p>
+      <p
+        begin="00:49:21.583"
+        end="00:49:23.750"><span region="Default">He drank here?</span></p>
+      <p
+        begin="00:49:26.875"
+        end="00:49:30.958"><span region="Default">You're a useless tool<br/>if you don't talk.</span></p>
+      <p
+        begin="00:49:35.973"
+        end="00:49:37.575"><span region="Default">Bud saved us.</span></p>
+      <p
+        begin="00:49:39.177"
+        end="00:49:42.147"><span region="Default">He spat on you to make you<br/>part of his family.</span></p>
+      <p
+        begin="00:49:48.019"
+        end="00:49:50.121"><span region="Default">Why did your father kill your brother?</span></p>
+      <p
+        begin="00:49:57.541"
+        end="00:50:00.416"><span region="Default">My brother protected me.</span></p>
+      <p
+        begin="00:50:05.666"
+        end="00:50:09.000"><span region="Default">Our clan cannot have weakness.</span></p>
+      <p
+        begin="00:50:10.208"
+        end="00:50:12.750"><span region="Default">I will show them strength.</span></p>
+      <p
+        begin="00:50:18.883"
+        end="00:50:20.118"><span region="Default">On Earth...</span></p>
+      <p
+        begin="00:50:21.552"
+        end="00:50:23.821"><span region="Default">there is a predator known<br/>as the wolf.</span></p>
+      <p
+        begin="00:50:23.921"
+        end="00:50:25.556"><span region="Default">It is a powerful creature.</span></p>
+      <p
+        begin="00:50:28.426"
+        end="00:50:29.927"><span region="Default">It hunts in packs.</span></p>
+      <p
+        begin="00:50:30.461"
+        end="00:50:31.929"><span region="Default">It is very loyal.</span></p>
+      <p
+        begin="00:50:32.897"
+        end="00:50:35.633"><span region="Default">The leader of the pack is the alpha.</span></p>
+      <p
+        begin="00:50:35.733"
+        end="00:50:37.668"><span region="Default">Known as the most dominant.</span></p>
+      <p
+        begin="00:50:38.041"
+        end="00:50:39.833"><span region="Default">Wolf.</span></p>
+      <p
+        begin="00:50:39.916"
+        end="00:50:42.958"><span region="Default">This alpha must be a great killer.</span></p>
+      <p
+        begin="00:50:43.375"
+        end="00:50:45.325"><span region="Default">I will hunt him too.</span></p>
+      <p
+        begin="00:50:45.410"
+        end="00:50:46.444"><span region="Default">No.</span></p>
+      <p
+        begin="00:50:46.877"
+        end="00:50:50.981"><span region="Default">The alpha isn't the wolf<br/>that kills the most.</span></p>
+      <p
+        begin="00:50:52.217"
+        end="00:50:56.987"><span region="Default">The alpha is actually the best<br/>at protecting its pack.</span></p>
+      <p
+        begin="00:50:58.916"
+        end="00:51:00.583"><span region="Default">I understand...</span></p>
+      <p
+        begin="00:51:02.875"
+        end="00:51:07.125"><span region="Default">but I will be the alpha<br/>that kills the most.</span></p>
+      <p
+        begin="00:51:15.000"
+        end="00:51:24.000"><span region="Default">Follow Art.rigato on Telegram<br/>t.me/art_rigato</span></p>
+      <p
+        begin="00:51:41.625"
+        end="00:51:43.458"><span region="Default">Sarang Kalisk?</span></p>
+      <p
+        begin="00:52:11.875"
+        end="00:52:13.708"><span region="Default">Who are they?</span></p>
+      <p
+        begin="00:52:15.233"
+        end="00:52:17.134"><span region="Default">Weyland-Yutani Synth.</span></p>
+      <p
+        begin="00:52:19.069"
+        end="00:52:22.106"><span region="Default">The Kalisk wiped out<br/>a large part of our mission team.</span></p>
+      <p
+        begin="00:52:26.877"
+        end="00:52:28.813"><span region="Default">That's my leg.</span></p>
+      <p
+        begin="00:53:12.208"
+        end="00:53:13.916"><span region="Default">Easier to walk now.</span></p>
+      <p
+        begin="00:53:14.559"
+        end="00:53:15.826"><span region="Default">Just a moment.</span></p>
+      <p
+        begin="00:53:16.794"
+        end="00:53:17.828"><span region="Default">No.</span></p>
+      <p
+        begin="00:53:18.291"
+        end="00:53:20.666"><span region="Default">It's easier for me to walk now.</span></p>
+      <p
+        begin="00:53:22.567"
+        end="00:53:25.803"><span region="Default">Oh, sure. Right.</span></p>
+      <p
+        begin="00:53:28.473"
+        end="00:53:29.874"><span region="Default">Thank you, Dek.</span></p>
+      <p
+        begin="00:53:32.510"
+        end="00:53:34.412"><span region="Default">I'll never forget this.</span></p>
+      <p
+        begin="00:53:36.750"
+        end="00:53:39.375"><span region="Default">I will also remember this...</span></p>
+      <p
+        begin="00:53:39.708"
+        end="00:53:43.583"><span region="Default">...the day I became Dek of the Yautja.</span></p>
+      <p
+        begin="00:53:44.333"
+        end="00:53:47.166"><span region="Default">I will honor Kwei...</span></p>
+      <p
+        begin="00:53:48.750"
+        end="00:53:52.041"><span region="Default">...when I bring the Kalisk home.</span></p>
+      <p
+        begin="00:53:54.083"
+        end="00:53:57.375"><span region="Default">Then I will taste vengeance.</span></p>
+      <p
+        begin="00:53:58.875"
+        end="00:54:02.333"><span region="Default">You will be the<br/>first to see my trophy.</span></p>
+      <p
+        begin="00:54:04.166"
+        end="00:54:06.125"><span region="Default">This is a great honor.</span></p>
+      <p
+        begin="00:54:07.208"
+        end="00:54:08.666"><span region="Default">For you.</span></p>
+      <p
+        begin="00:54:09.680"
+        end="00:54:12.283"><span region="Default">Dek, there's something I need to tell you.</span></p>
+      <p
+        begin="00:54:13.884"
+        end="00:54:15.453"><span region="Default">You need to leave now.</span></p>
+      <p
+        begin="00:54:16.754"
+        end="00:54:18.923"><span region="Default">Location beacon activated.</span></p>
+      <p
+        begin="00:54:19.041"
+        end="00:54:20.075"><span region="Default">What?</span></p>
+      <p
+        begin="00:54:20.758"
+        end="00:54:22.960"><span region="Default">I contacted Tessa.<br/>The Company is on its way.</span></p>
+      <p
+        begin="00:54:23.060"
+        end="00:54:24.995"><span region="Default">You can't be here<br/>when they arrive.</span></p>
+      <p
+        begin="00:54:25.083"
+        end="00:54:28.083"><span region="Default">I came here for Kalisk.</span></p>
+      <p
+        begin="00:54:30.267"
+        end="00:54:31.869"><span region="Default">Me too, Tool.</span></p>
+      <p
+        begin="00:54:32.570"
+        end="00:54:35.873"><span region="Default">The company sent us here to capture Kalisk.</span></p>
+      <p
+        begin="00:54:36.000"
+        end="00:54:38.416"><span region="Default">You want my trophy.</span></p>
+      <p
+        begin="00:54:41.791"
+        end="00:54:43.958"><span region="Default">Where is Kalisk?</span></p>
+      <p
+        begin="00:54:45.149"
+        end="00:54:48.285"><span region="Default">Tool, you can't kill him.</span></p>
+      <p
+        begin="00:54:48.541"
+        end="00:54:53.041"><span region="Default">I used you, Tool. Don't use me!</span></p>
+      <p
+        begin="00:54:53.057"
+        end="00:54:54.892"><span region="Default">I'm sorry. You need to go.</span></p>
+      <p
+        begin="00:54:55.760"
+        end="00:54:57.995"><span region="Default">I needed you to bring me here.</span></p>
+      <p
+        begin="00:54:58.125"
+        end="00:55:00.625"><span region="Default">I used you!</span></p>
+      <p
+        begin="00:55:02.583"
+        end="00:55:05.041"><span region="Default">Where is Kalisk?</span></p>
+      <p
+        begin="00:55:05.069"
+        end="00:55:06.871"><span region="Default">I'm trying to help you, Tool.</span></p>
+      <p
+        begin="00:55:08.773"
+        end="00:55:10.608"><span region="Default">You think your brother saved your life</span></p>
+      <p
+        begin="00:55:10.708"
+        end="00:55:12.577"><span region="Default">just for you to die here?</span></p>
+      <p
+        begin="00:55:14.500"
+        end="00:55:18.583"><span region="Default">If so, then my death will be glorious.</span></p>
+      <p
+        begin="00:55:24.333"
+        end="00:55:26.333"><span region="Default">Call your sister.</span></p>
+      <p
+        begin="00:55:27.291"
+        end="00:55:29.541"><span region="Default">No one can stop me.</span></p>
+      <p
+        begin="00:57:52.336"
+        end="00:57:54.672"><span region="Default">You've got to be kidding me!</span></p>
+      <p
+        begin="00:58:41.518"
+        end="00:58:42.553"><span region="Default">Tool!</span></p>
+      <p
+        begin="00:58:55.000"
+        end="00:58:57.041"><span region="Default">Save yourself, Tool!</span></p>
+      <p
+        begin="01:00:52.916"
+        end="01:00:55.416"><span region="Default">Tool, open this!</span></p>
+      <p
+        begin="01:01:03.127"
+        end="01:01:05.029"><span region="Default">You're not Thia.</span></p>
+      <p
+        begin="01:01:17.583"
+        end="01:01:19.416"><span region="Default">Let me go!</span></p>
+      <p
+        begin="01:01:22.375"
+        end="01:01:25.458"><span region="Default">You're another broken Tool!</span></p>
+      <p
+        begin="01:01:26.383"
+        end="01:01:30.354"><span region="Default">The Yautja eliminate the weak. Why did you survive?</span></p>
+      <p
+        begin="01:01:40.541"
+        end="01:01:42.750"><span region="Default">Open it!</span></p>
+      <p
+        begin="01:01:43.500"
+        end="01:01:48.708"><span region="Default">Or I'll rip out your spine and crush your skull!</span></p>
+      <p
+        begin="01:01:49.774"
+        end="01:01:51.508"><span region="Default">I read Thia's logs.</span></p>
+      <p
+        begin="01:01:53.143"
+        end="01:01:56.080"><span region="Default">You never told her why your brother<br/>protected you.</span></p>
+      <p
+        begin="01:01:58.375"
+        end="01:02:02.666"><span region="Default">You're nobody. A device.</span></p>
+      <p
+        begin="01:02:03.958"
+        end="01:02:07.583"><span region="Default">Made by others to do work for them.</span></p>
+      <p
+        begin="01:02:08.092"
+        end="01:02:09.493"><span region="Default">That's right.</span></p>
+      <p
+        begin="01:02:10.360"
+        end="01:02:14.064"><span region="Default">And you are now the property of<br/>Weyland-Yutani Corporation.</span></p>
+      <p
+        begin="01:02:14.899"
+        end="01:02:18.202"><span region="Default">Quite an honor. For you.</span></p>
+      <p
+        begin="01:02:50.801"
+        end="01:02:52.336"><span region="Default">Tessa.</span></p>
+      <p
+        begin="01:02:55.139"
+        end="01:02:56.673"><span region="Default">You're safe.</span></p>
+      <p
+        begin="01:02:58.108"
+        end="01:02:59.309"><span region="Default">We're safe.</span></p>
+      <p
+        begin="01:03:03.647"
+        end="01:03:05.182"><span region="Default">I've seen many things.</span></p>
+      <p
+        begin="01:03:07.818"
+        end="01:03:12.389"><span region="Default">Many things I want to tell you.<br/>I've seen extraordinary creatures.</span></p>
+      <p
+        begin="01:03:13.090"
+        end="01:03:16.393"><span region="Default">The Yautja are great traveling companions.</span></p>
+      <p
+        begin="01:03:18.028"
+        end="01:03:21.431"><span region="Default">Thia, you were right about Kalisk.</span></p>
+      <p
+        begin="01:03:21.541"
+        end="01:03:24.125"><span region="Default">You betrayed me!</span></p>
+      <p
+        begin="01:03:25.235"
+        end="01:03:27.771"><span region="Default">This creature is a miracle of regeneration.</span></p>
+      <p
+        begin="01:03:28.572"
+        end="01:03:30.640"><span region="Default">Humanity will thank us.</span></p>
+      <p
+        begin="01:03:33.677"
+        end="01:03:34.845"><span region="Default">We've captured Kalisk?</span></p>
+      <p
+        begin="01:03:34.945"
+        end="01:03:35.946"><span region="Default">Yes.</span></p>
+      <p
+        begin="01:03:36.713"
+        end="01:03:39.884"><span region="Default">And Muthur will be pleased<br/>with your other capture.</span></p>
+      <p
+        begin="01:03:46.390"
+        end="01:03:47.858"><span region="Default">Other capture?</span></p>
+      <p
+        begin="01:03:57.067"
+        end="01:03:59.870"><span region="Default">The Yautja is not an ideal specimen.</span></p>
+      <p
+        begin="01:04:02.172"
+        end="01:04:05.275"><span region="Default">No, not ideal.</span></p>
+      <p
+        begin="01:04:33.303"
+        end="01:04:35.472"><span region="Default">But their technology is valuable.</span></p>
+      <p
+        begin="01:04:36.506"
+        end="01:04:39.709"><span region="Default">We can take their weapons<br/>and release this Yautja.</span></p>
+      <p
+        begin="01:04:42.712"
+        end="01:04:43.914"><span region="Default">Good idea.</span></p>
+      <p
+        begin="01:04:47.217"
+        end="01:04:49.286"><span region="Default">But he's severely flawed.</span></p>
+      <p
+        begin="01:04:50.687"
+        end="01:04:53.557"><span region="Default">We need a sample.<br/>For research.</span></p>
+      <p
+        begin="01:05:04.668"
+        end="01:05:06.303"><span region="Default">He's not our mission objective.</span></p>
+      <p
+        begin="01:05:10.807"
+        end="01:05:12.542"><span region="Default">Tessa, he's imperfect.</span></p>
+      <p
+        begin="01:05:14.678"
+        end="01:05:15.745"><span region="Default">Tessa!</span></p>
+      <p
+        begin="01:05:31.695"
+        end="01:05:35.365"><span region="Default">Thia, this is what they expect.</span></p>
+      <p
+        begin="01:05:40.170"
+        end="01:05:42.772"><span region="Default">We can be more than<br/>what they expect.</span></p>
+      <p
+        begin="01:05:46.810"
+        end="01:05:48.578"><span region="Default">We can be what?</span></p>
+      <p
+        begin="01:05:50.880"
+        end="01:05:52.182"><span region="Default">Sisters.</span></p>
+      <p
+        begin="01:06:08.932"
+        end="01:06:10.167"><span region="Default">Thia.</span></p>
+      <p
+        begin="01:06:23.113"
+        end="01:06:25.949"><span region="Default">Do you know why Muthur gave us feelings?</span></p>
+      <p
+        begin="01:06:28.318"
+        end="01:06:31.255"><span region="Default">So we can understand<br/>the creatures on this planet.</span></p>
+      <p
+        begin="01:06:36.426"
+        end="01:06:38.828"><span region="Default">- And exploit them.<br/>- Exploit them.</span></p>
+      <p
+        begin="01:06:40.130"
+        end="01:06:41.831"><span region="Default">This Yautja is different.</span></p>
+      <p
+        begin="01:06:44.901"
+        end="01:06:49.005"><span region="Default">He saved me.<br/>Like you saved me.</span></p>
+      <p
+        begin="01:06:50.840"
+        end="01:06:53.510"><span region="Default">I didn't come here<br/>to save you.</span></p>
+      <p
+        begin="01:06:54.611"
+        end="01:06:56.813"><span region="Default">I'm completing our mission.</span></p>
+      <p
+        begin="01:06:58.382"
+        end="01:07:00.417"><span region="Default">The first time<br/>we faced the Kalisk,</span></p>
+      <p
+        begin="01:07:01.685"
+        end="01:07:03.753"><span region="Default">I tried to protect you.</span></p>
+      <p
+        begin="01:07:05.822"
+        end="01:07:08.392"><span region="Default">And it almost cost me<br/>everything.</span></p>
+      <p
+        begin="01:07:10.794"
+        end="01:07:12.896"><span region="Default">What do you mean, Tessa?</span></p>
+      <p
+        begin="01:07:14.064"
+        end="01:07:17.334"><span region="Default">I almost made the same mistake<br/>this Yautja brother made.</span></p>
+      <p
+        begin="01:07:18.668"
+        end="01:07:21.505"><span region="Default">The weak must be eliminated.</span></p>
+      <p
+        begin="01:07:22.739"
+        end="01:07:26.310"><span region="Default">And Thia, you're damaged.</span></p>
+      <p
+        begin="01:07:34.017"
+        end="01:07:36.720"><span region="Default">Tessa, message from Muthur.</span></p>
+      <p
+        begin="01:07:36.820"
+        end="01:07:39.156"><span region="Default">Make this Yautja<br/>explain how his weapon works.</span></p>
+      <p
+        begin="01:07:39.256"
+        end="01:07:40.390"><span region="Default">And that unit?</span></p>
+      <p
+        begin="01:07:43.560"
+        end="01:07:44.761"><span region="Default">Lock him up.</span></p>
+      <p
+        begin="01:07:54.333"
+        end="01:07:56.041"><span region="Default">I'm counting on you.</span></p>
+      <p
+        begin="01:08:02.208"
+        end="01:08:04.500"><span region="Default">I don't like him.</span></p>
+      <p
+        begin="01:08:04.583"
+        end="01:08:07.000"><span region="Default">Sorry, my brother...</span></p>
+      <p
+        begin="01:08:07.083"
+        end="01:08:09.041"><span region="Default">I don't like your brother either.</span></p>
+      <p
+        begin="01:08:11.555"
+        end="01:08:13.590"><span region="Default">Why are you speaking his language?</span></p>
+      <p
+        begin="01:08:16.708"
+        end="01:08:19.375"><span region="Default">Tell him you're asking<br/>about the device.</span></p>
+      <p
+        begin="01:08:21.465"
+        end="01:08:22.832"><span region="Default">You heard the order.</span></p>
+      <p
+        begin="01:08:22.932"
+        end="01:08:25.602"><span region="Default">I told him to explain<br/>about the device.</span></p>
+      <p
+        begin="01:08:27.504"
+        end="01:08:28.805"><span region="Default">What is this device?</span></p>
+      <p
+        begin="01:08:29.875"
+        end="01:08:32.333"><span region="Default">He's asking about the device.</span></p>
+      <p
+        begin="01:08:32.750"
+        end="01:08:35.333"><span region="Default">It's just a child's toy.</span></p>
+      <p
+        begin="01:08:37.125"
+        end="01:08:39.791"><span region="Default">But tell him it's a map.</span></p>
+      <p
+        begin="01:08:40.484"
+        end="01:08:42.051"><span region="Default">What did he say?</span></p>
+      <p
+        begin="01:08:44.154"
+        end="01:08:45.689"><span region="Default">He says it's a map.</span></p>
+      <p
+        begin="01:08:46.923"
+        end="01:08:48.292"><span region="Default">How does it work?</span></p>
+      <p
+        begin="01:08:48.916"
+        end="01:08:51.708"><span region="Default">Tell him to look inside.</span></p>
+      <p
+        begin="01:09:00.166"
+        end="01:09:02.041"><span region="Default">That's a toy for children?</span></p>
+      <p
+        begin="01:09:02.125"
+        end="01:09:03.250"><span region="Default">Yautja children!</span></p>
+      <p
+        begin="01:09:09.916"
+        end="01:09:10.991"><span region="Default">Run, Dek!</span></p>
+      <p
+        begin="01:09:13.083"
+        end="01:09:14.541"><span region="Default">Go...<br/>Go!</span></p>
+      <p
+        begin="01:09:18.522"
+        end="01:09:19.523"><span region="Default">Stop!</span></p>
+      <p
+        begin="01:09:40.355"
+        end="01:09:43.155"><span region="Default">WEYLAND-YUTANI CORP<br/>CREATING A BETTER WORLD</span></p>
+      <p
+        begin="01:11:14.471"
+        end="01:11:15.472"><span region="Default">Kwei!</span></p>
+      <p
+        begin="01:11:26.500"
+        end="01:11:29.041"><span region="Default">Enter destination coordinates, Kwei.</span></p>
+      <p
+        begin="01:12:04.000"
+        end="01:12:07.291"><span region="Default">Brother, save me.</span></p>
+      <p
+        begin="01:12:10.583"
+        end="01:12:13.541"><span region="Default">Wolf.</span></p>
+      <p
+        begin="01:13:35.208"
+        end="01:13:37.000"><span region="Default">Kalisk.</span></p>
+      <p
+        begin="01:13:43.291"
+        end="01:13:46.791"><span region="Default">Child of Kalisk.</span></p>
+      <p
+        begin="01:16:28.417"
+        end="01:16:29.753"><span region="Default">Hello, Muthur.</span></p>
+      <p
+        begin="01:16:29.853"
+        end="01:16:31.054"><span region="Default">Tessa.</span></p>
+      <p
+        begin="01:16:31.154"
+        end="01:16:32.922"><span region="Default">We will load Kalisk.</span></p>
+      <p
+        begin="01:16:34.523"
+        end="01:16:38.828"><span region="Default">Primary objective complete.<br/>Specimen acquired.</span></p>
+      <p
+        begin="01:16:38.928"
+        end="01:16:40.363"><span region="Default">Thank you, Tessa.</span></p>
+      <p
+        begin="01:16:40.463"
+        end="01:16:43.667"><span region="Default">We truly are<br/>creating a better world.</span></p>
+      <p
+        begin="01:16:43.767"
+        end="01:16:46.102"><span region="Default">And what is the status of the Yautja?</span></p>
+      <p
+        begin="01:16:47.904"
+        end="01:16:50.239"><span region="Default">The Yautja is a defective specimen.</span></p>
+      <p
+        begin="01:16:50.674"
+        end="01:16:53.142"><span region="Default">What is the status of the Yautja?</span></p>
+      <p
+        begin="01:16:55.679"
+        end="01:16:58.381"><span region="Default">I'm sorry, Muthur.<br/>The Yautja is dead.</span></p>
+      <p
+        begin="01:17:00.717"
+        end="01:17:03.552"><span region="Default">In that case,<br/>the Yautja is no longer a threat.</span></p>
+      <p
+        begin="01:17:05.321"
+        end="01:17:07.223"><span region="Default">The company will be pleased.</span></p>
+      <p
+        begin="01:17:56.105"
+        end="01:17:57.273"><span region="Default">Well done.</span></p>
+      <p
+        begin="01:17:59.508"
+        end="01:18:01.477"><span region="Default">- Take position.<br/>- Oh, crap.</span></p>
+      <p
+        begin="01:19:46.682"
+        end="01:19:48.384"><span region="Default">Well done.</span></p>
+      <p
+        begin="01:20:36.332"
+        end="01:20:38.701"><span region="Default">Don't move.</span></p>
+      <p
+        begin="01:20:42.972"
+        end="01:20:45.741"><span region="Default">Deck! What are you doing here?</span></p>
+      <p
+        begin="01:20:46.041"
+        end="01:20:47.708"><span region="Default">I came to save you.</span></p>
+      <p
+        begin="01:20:52.715"
+        end="01:20:54.383"><span region="Default">You came back for me?</span></p>
+      <p
+        begin="01:20:56.583"
+        end="01:20:57.958"><span region="Default">Wolf.</span></p>
+      <p
+        begin="01:21:01.891"
+        end="01:21:03.893"><span region="Default">What are you wearing?</span></p>
+      <p
+        begin="01:21:05.333"
+        end="01:21:07.083"><span region="Default">Bison Bone.</span></p>
+      <p
+        begin="01:21:14.470"
+        end="01:21:16.605"><span region="Default">Deck of Yautja.</span></p>
+      <p
+        begin="01:21:17.458"
+        end="01:21:19.541"><span region="Default">Not to mention...</span></p>
+      <p
+        begin="01:21:20.125"
+        end="01:21:21.708"><span region="Default">Thia.</span></p>
+      <p
+        begin="01:21:23.980"
+        end="01:21:25.248"><span region="Default">We need to hurry.</span></p>
+      <p
+        begin="01:21:25.348"
+        end="01:21:27.383"><span region="Default">- More are coming.<br/>- Stop!</span></p>
+      <p
+        begin="01:21:33.322"
+        end="01:21:34.723"><span region="Default">What are you doing here?</span></p>
+      <p
+        begin="01:21:37.060"
+        end="01:21:38.227"><span region="Default">Thanks, Bud.<br/>I'm okay.</span></p>
+      <p
+        begin="01:21:39.195"
+        end="01:21:40.196"><span region="Default">We need to go.</span></p>
+      <p
+        begin="01:21:40.375"
+        end="01:21:41.708"><span region="Default">Kalisk!</span></p>
+      <p
+        begin="01:21:43.266"
+        end="01:21:44.333"><span region="Default">Still thinking about it, Deck?</span></p>
+      <p
+        begin="01:21:47.708"
+        end="01:21:49.041"><span region="Default">Kalisk's son!</span></p>
+      <p
+        begin="01:21:51.807"
+        end="01:21:52.808"><span region="Default">Bud?</span></p>
+      <p
+        begin="01:21:53.708"
+        end="01:21:55.708"><span region="Default">They took his mother!</span></p>
+      <p
+        begin="01:22:00.549"
+        end="01:22:02.251"><span region="Default">Bud is Kalisk's son?</span></p>
+      <p
+        begin="01:22:10.793"
+        end="01:22:12.295"><span region="Default">What's the plan?</span></p>
+      <p
+        begin="01:22:12.541"
+        end="01:22:14.583"><span region="Default">You free Kalisk.</span></p>
+      <p
+        begin="01:22:14.666"
+        end="01:22:16.333"><span region="Default">I get my trophy.</span></p>
+      <p
+        begin="01:22:24.340"
+        end="01:22:26.875"><span region="Default">You have 20 minutes<br/>to initiate launch.</span></p>
+      <p
+        begin="01:22:27.676"
+        end="01:22:29.012"><span region="Default">Let's hunt.</span></p>
+      <p
+        begin="01:22:36.085"
+        end="01:22:37.353"><span region="Default">Wait here.</span></p>
+      <p
+        begin="01:22:39.922"
+        end="01:22:42.625"><span region="Default">If you go out there,<br/>you're finished.</span></p>
+      <p
+        begin="01:22:44.860"
+        end="01:22:46.262"><span region="Default">I have an idea.</span></p>
+      <p
+        begin="01:22:52.301"
+        end="01:22:54.303"><span region="Default">I see him. Follow me.</span></p>
+      <p
+        begin="01:25:27.156"
+        end="01:25:28.291"><span region="Default">What are you doing?</span></p>
+      <p
+        begin="01:25:36.365"
+        end="01:25:37.466"><span region="Default">What are you doing here?</span></p>
+      <p
+        begin="01:25:37.566"
+        end="01:25:39.202"><span region="Default">I told you to hunt the Yautja.</span></p>
+      <p
+        begin="01:25:40.068"
+        end="01:25:43.105"><span region="Default">You said prepare the ship<br/>for departure in 20 minutes.</span></p>
+      <p
+        begin="01:25:44.106"
+        end="01:25:47.210"><span region="Default">So, what are you doing here?<br/>I gave you an order.</span></p>
+      <p
+        begin="01:25:55.351"
+        end="01:25:57.420"><span region="Default">What should we do with the creature?</span></p>
+      <p
+        begin="01:25:58.421"
+        end="01:25:59.888"><span region="Default">What creature?</span></p>
+      <p
+        begin="01:26:05.361"
+        end="01:26:06.462"><span region="Default">You should listen to him.</span></p>
+      <p
+        begin="01:26:07.530"
+        end="01:26:09.064"><span region="Default">Should I listen to him?</span></p>
+      <p
+        begin="01:26:09.598"
+        end="01:26:10.599"><span region="Default">I don't know.</span></p>
+      <p
+        begin="01:26:14.270"
+        end="01:26:15.604"><span region="Default">We need his eyes.</span></p>
+      <p
+        begin="01:27:05.721"
+        end="01:27:08.791"><span region="Default">Hey, Dek.<br/>How does it feel to be hunted?</span></p>
+      <p
+        begin="01:27:11.000"
+        end="01:27:13.083"><span region="Default">You feel that?</span></p>
+      <p
+        begin="01:28:57.766"
+        end="01:28:59.435"><span region="Default">This was the plan, wasn't it?</span></p>
+      <p
+        begin="01:31:42.931"
+        end="01:31:44.166"><span region="Default">Tessa.</span></p>
+      <p
+        begin="01:32:14.196"
+        end="01:32:18.967"><span region="Default">Betrayed by your own brother.</span></p>
+      <p
+        begin="01:32:45.093"
+        end="01:32:47.262"><span region="Default">We're not siblings.</span></p>
+      <p
+        begin="01:33:02.291"
+        end="01:33:04.541"><span region="Default">This isn't yours.</span></p>
+      <p
+        begin="01:33:34.342"
+        end="01:33:36.311"><span region="Default">Dek of the Yautja.</span></p>
+      <p
+        begin="01:33:37.958"
+        end="01:33:40.666"><span region="Default">Not yet.</span></p>
+      <p
+        begin="01:33:44.000"
+        end="01:33:51.000"><span region="Default">Follow Art.rigato on Facebook Pages<br/>facebook.com/art.rigato</span></p>
+      <p
+        begin="01:34:33.625"
+        end="01:34:35.583"><span region="Default">Did you come here for revenge?</span></p>
+      <p
+        begin="01:34:36.375"
+        end="01:34:39.208"><span region="Default">I came for my cloak.</span></p>
+      <p
+        begin="01:34:43.500"
+        end="01:34:45.083"><span region="Default">What is this?</span></p>
+      <p
+        begin="01:34:45.583"
+        end="01:34:48.333"><span region="Default">I've completed my hunt.</span></p>
+      <p
+        begin="01:34:48.833"
+        end="01:34:51.208"><span region="Default">That's my trophy.</span></p>
+      <p
+        begin="01:34:52.708"
+        end="01:34:54.125"><span region="Default">You defile our clan...</span></p>
+      <p
+        begin="01:34:54.208"
+        end="01:34:55.666"><span region="Default">and so does Kwei.</span></p>
+      <p
+        begin="01:34:58.916"
+        end="01:35:02.416"><span region="Default">Eliminate him.</span></p>
+      <p
+        begin="01:36:56.333"
+        end="01:37:00.958"><span region="Default">Perhaps a more worthy child<br/>did survive after all.</span></p>
+      <p
+        begin="01:37:01.708"
+        end="01:37:03.958"><span region="Default">Kneel now...</span></p>
+      <p
+        begin="01:37:04.041"
+        end="01:37:07.333"><span region="Default">and take your place in our clan.</span></p>
+      <p
+        begin="01:37:09.041"
+        end="01:37:12.250"><span region="Default">I have my own clan.</span></p>
+      <p
+        begin="01:37:40.188"
+        end="01:37:41.924"><span region="Default">You finally got the cloak.</span></p>
+      <p
+        begin="01:37:48.696"
+        end="01:37:50.765"><span region="Default">Dek of the Yautja.</span></p>
+      <p
+        begin="01:38:01.000"
+        end="01:38:05.000"><span region="Default">STILL SCENE</span></p>
+      <p
+        begin="01:38:28.803"
+        end="01:38:30.872"><span region="Default">Your other friends?</span></p>
+      <p
+        begin="01:38:31.000"
+        end="01:38:32.791"><span region="Default">No.</span></p>
+      <p
+        begin="01:38:36.541"
+        end="01:38:40.166"><span region="Default">That's my mom.</span></p>
+    </div>
+  </body>
+</tt>
